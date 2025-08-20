@@ -36,7 +36,7 @@ I'm a **Network and System Administrator** and currently a **Student** passionat
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/avishka-madhushan-k-d-10a064373/)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/avishka-madhushan-k-d-10a064373/))
 - [Portfolio Website](https://yourwebsite.com)
 - Email: smavishka01@gmail.com
 
