@@ -1,6 +1,4 @@
-# Hi there, I'm SLKDAM 👋
-
-![Profile Banner](https://via.placeholder.com/1200x300?text=Welcome+to+SLKDAM's+GitHub)
+# Hi there, I'm Avishka Madhushan 👋
 
 ## 🚀 About Me
 
@@ -42,16 +40,7 @@ I'm a **Network and System Administrator** and currently a **Student** passionat
 
 ---
 
-## ⚡ Fun Facts
-
-- 🎮 I love gaming and building custom PCs
-- 🌍 Enjoy traveling and trying out new cuisines
-- 🤖 Always tinkering with new tech and automation scripts
-
----
 
 > “Stay hungry, stay foolish.” — Steve Jobs
 
 ---
-
-![SLKDAM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLKDAM&show_icons=true&theme=radical)
