@@ -1,4 +1,13 @@
-# Hi there, I'm Avishka Madhushan 👋
+<!-- Profile Header with Animated Waving Hand -->
+<h1 align="center">
+  Hi there, I'm Avishka Madhushan <img src="https://raw.githubusercontent.com/SLKDAM/SLKDAM/main/assets/wave.gif" width="40px">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=440&lines=Network+%26+System+Administrator;Student+%7C+Tech+Enthusiast;AI+%2F+ML+Explorer+%7C+DevOps+Fan;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -12,11 +21,18 @@ I'm a **Network and System Administrator** and currently a **Student** passionat
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, JavaScript (React)
-- **DevOps:** Docker, GitHub Actions, CI/CD, Linux
-- **AI/ML:** Scikit-learn, TensorFlow, Pandas
-- **Networking:** Cisco, Firewalls, Automation Scripts
-- **Other:** Bash, REST APIs, Cloud (AWS/Azure), Monitoring Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
 
 ---
 
@@ -34,13 +50,28 @@ I'm a **Network and System Administrator** and currently a **Student** passionat
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/avishka-madhushan-k-d-10a064373/)
-- [Portfolio Website](https://portfolio-555jcvsx3-avishka-madhushans-projects.vercel.app/)
-- Email: smavishka01@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/avishka-madhushan-k-d-10a064373/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:smavishka01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-555jcvsx3-avishka-madhushans-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-
-> “Stay hungry, stay foolish.” — Steve Jobs
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
+
+<!-- Optional: Custom Footer or Animated Banner 
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lGm5mZQnQ0k1uo/giphy.gif" width="200" alt="Network Animation"/>
+</p>
+-->
